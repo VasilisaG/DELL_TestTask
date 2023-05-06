@@ -262,9 +262,9 @@ body{
 }
 .pagination {
   position: absolute;
-  margin-left: 87%;
+  margin-left: 47%;
   transform: translateX(-50%);
-  margin-top: -20%;
+  margin-top: -5%;
 }
 .dot {
   display: inline-block;
@@ -281,8 +281,8 @@ body{
 }
 .next {
   position: absolute;
-  margin-top: -20%;
-  margin-left: 100%;
+  margin-top: -5%;
+  margin-left: 55%;
 }
 .slides img:not(:first-child) {
   display: none;
